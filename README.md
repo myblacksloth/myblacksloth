@@ -12,7 +12,7 @@ I'm a computer scientist passionate about software development, and scripting. I
 Here are some of the technologies and languages I frequently work with:
 
 - 💻 **C / C++**
-- - 🧰 **Shell Script / Bash**
+- 🧰 **Shell Script / Bash**
 - 🐍 **Python**
 - ☕ **Java**
 
