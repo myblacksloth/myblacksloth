@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**myblacksloth/myblacksloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a computer scientist passionate about software development, and scripting. I use this space to share personal projects where I experiment, learn, and apply programming concepts, automation techniques, and data science ideas.
 
-Here are some ideas to get you started:
+🌐 Visit my website: http://www.antomau.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Languages
+
+Here are some of the technologies and languages I frequently work with:
+
+- 💻 **C / C++**
+- - 🧰 **Shell Script / Bash**
+- 🐍 **Python**
+- ☕ **Java**
+
+---
+
+## 📌 Main Projects
+
+Here are some of my most relevant public repositories:
+
+### 💡 Various Projects
+
+- 🔹 **Ansi_C_Programs** – Collection of C programs for learning purposes
+- 🔹 **Python** – Python scripts and applications
+- 🔹 **qlearning** – Jupyter notebooks focused on Q-Learning and machine learning  
+- 🔹 **web_dev** – Web development projects, learning exercises, and experiments  
+- 🔹 **ssEvent_grubber** – JavaScript-based event management script  
+- 🔹 **CPlusPlus** – C++ projects and language practice  
+- 🔹 **Configurations** – System configuration files and shell scripts  
+- 🔹 **GeoMapX** – Python project related to maps and geodata  
+- 🔹 **reverse_proxy_impl** – JavaScript reverse proxy implementation  
+- 🔹 **FlaskYoutubeDownloaderDocker** – YouTube downloader built with Flask and Docker  
+
+---
+
+## 🚀 Currently Learning
+
+- Deepening my knowledge of **Machine Learning**
+- Improving skills in **Cloud and Deployment**
+- Advanced **Backend and API Development**
+- Workflow and task **Automation**
+
+---
+
+*Thanks for visiting! 🤝*
+
+
+
+
+
+
+
+
+
+
+
+
+
