@@ -9,6 +9,8 @@ I'm a computer scientist passionate about software development, and scripting. I
 
 ## 🛠️ Technologies & Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myblacksloth&theme=tokyonight)
+
 Here are some of the technologies and languages I frequently work with:
 
 - 💻 **C / C++**
